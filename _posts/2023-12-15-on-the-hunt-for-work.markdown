@@ -13,7 +13,3 @@ Sometimes, I get frustrated that I need to find a way to work for money, yet mos
 and try to think about my place in a world dependent on so many causes and effects over so long a time. 
 I plan to finish my PhD in 2024 and I am looking for new opportunities to survive make the world a better place to live.
 
-You can find my lab at Tufts here, on the [EBBL lab website][ebbl-lab] . 
-
-[ebbl-lab]: https://sites.tufts.edu/emotiononthebrain/
-
