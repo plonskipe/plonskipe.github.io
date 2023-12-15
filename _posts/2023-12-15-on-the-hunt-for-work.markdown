@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "On the hunt for work"
-date:   2023-12-15 16:20:00 -0500
+date:   2023-12-15 16:20:00 -0400
 categories: jekyll update
 ---
 
