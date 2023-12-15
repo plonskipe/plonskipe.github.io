@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Here is the link to a description on the Tufts Psychology website:
+[Tufts Psychology Grad Students](https://as.tufts.edu/psychology/people/graduate-students)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Here is the link to a description on the EBBL lab website (the Psychology site above was updated more recently):
+[Paul E. Plonski](https://sites.tufts.edu/emotiononthebrain/personnel/paul-e-plonski/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
