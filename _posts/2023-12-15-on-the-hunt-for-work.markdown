@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "On the hunt for work"
-date:   2023-12-15 16:20:00 -0400
-categories: jekyll update
+date:   2023-12-15
+categories: jekyll blogging
 ---
 
 It can be hard to figure out what to do a complicated world. What are your skills? What are your passions, priorities, and perspectives? What motivates you to learn more and be at your best? I've been thinking about these questions, but grappling with the practical fact that I need to be paid to do something. Sometimes, I get frustrated that I need to find a way to work for money, but most of the time I respect history and try to think about my place in a world dependent on many causes and effects over long periods of time. I plan to finish my PhD in 2024 and I am looking for new opportunities to survive make the world a better place to live.
