@@ -21,7 +21,7 @@
 title: Paul E. Plonski
 email: paul.plonski@tufts.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Paul E. Plonski is on the job market this year, 2024.
+  Paul E. Plonski serves as a Postdoctoral Research Fellow in the Psychology Department at Swarthmore College.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.paulplonski.com/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
