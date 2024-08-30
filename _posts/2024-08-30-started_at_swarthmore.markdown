@@ -12,6 +12,6 @@ own control room, in one large suite with a sink, fancy water, and plenty of sto
 We use EGI/MagStim high-impedance caps and soon we'll also set up some Brain Vision
 equipment. As I learn how to conduct research here, I have made progress with the ongoing work.
 The main publication for my first-year project at Tufts was just resubmitted as a major revision
-to PLOS ONE. You can see everything [here](https://osf.io/mcbgn/){:target="_blank"}{:rel="noopener noreferrer"}. 
-My dissertation will soon be on ProQuest, and the updated document can be found [here] (https://osf.io/js5bh/){:target="_blank"}{:rel="noopener noreferrer"}.  
+to PLOS ONE. You can see everything [here](https://osf.io/mcbgn/){:target="_blank"}. 
+My dissertation will soon be on ProQuest, and the updated document can be found [here](https://osf.io/js5bh/){:target="_blank"}.  
 
