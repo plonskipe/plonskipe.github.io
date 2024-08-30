@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Paul E. Plonski
+title:  
 email: paul.plonski@swarthmore.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Postdoctoral Research Fellow in the Psychology Department at Swarthmore College.
