@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Paul E. Plonski
-email: paul.plonski@tufts.edu
+email: paul.plonski@swarthmore.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Postdoctoral Research Fellow in the Psychology Department at Swarthmore College.
 baseurl: "" # the subpath of your site, e.g. /blog
