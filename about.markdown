@@ -14,7 +14,7 @@ I have experience teaching as a lab instructor, with a focus on research methods
   
 **Research**  
   
-I study affective information processing, with a focus on mindfulness and emotion regulation. I am interested in psychophysiological processes, subjective experience, and behavior. I aim to build knowledge that will help to address collective problems, improve health, and optimize performance. One way to visualize my psychological framework is:
+I study affective information processing, with a focus on mindfulness and emotion regulation. I am interested in psychophysiological processes, subjective experience, and behavior. I aim to build knowledge that will help to address collective problems, optimize performance, and improve health. One way to visualize my psychological framework is:
   
 {:refdef: style="text-align: center;"}
 ![three-way venn diagram with affect, behavior, and cognition; all inside social and cultural context](/assets/abccs.png)
