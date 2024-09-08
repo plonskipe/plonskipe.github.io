@@ -27,7 +27,7 @@ My main line of research explores how people experience and regulate emotions wh
 {: refdef}
 *In the above Figure, the solid lines correspond to proposed paths in the conceptual framework. Climate emotions are initiated by exposure to climate change information (which can be external or internal).*
 
-I also studied spatial perforamce (route planning) under time pressure ([route planning project link](https://osf.io/mcbgn/){:target="_blank"}). This research on emotion regulation and performance in stressful situations was part of a collaboration with the Center for Applied Brain and Cognitive Sciences. Among other findings, we noted a particularly strong effect of urgency messaging, independent of temporal parameters.   
+I also studied spatial perforamce (route planning) under time pressure ([route planning project link](https://osf.io/mcbgn/){:target="_blank"}). This research on emotion regulation and performance in stressful situations was part of a collaboration with the Center for Applied Brain and Cognitive Sciences. Among other findings, we noted a particularly strong effect of urgency messaging, independent of other temporal parameters.   
   
 {:refdef: style="text-align: center;"}
 ![subjetive time pressure reported based on within- and between-persons time pressure manipulations](/assets/time_pressure.png)
