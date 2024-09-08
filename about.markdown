@@ -16,7 +16,7 @@ I have experience teaching as a lab instructor, with a focus on research methods
   
 I study affective information processing, with a focus on mindfulness and emotion regulation. I am interested in psychophysiological processes, subjective experience, and behavior. I aim to build knowledge that will help to address collective problems, improve health, and optimize performance.  
 
-![three-way venn diagram with affect, behavior, and cognition; all inside social and cultural context]({{https://github.com/plonskipe/plonskipe.github.io/blob/main}}/assets/abccs.png)
+![three-way venn diagram with affect, behavior, and cognition; all inside social and cultural context](blob/main/assets/abccs.png)
   
 My main line of research explores how people experience and regulate emotions when faced with climate change information, and how those emotion processes are associated with climate change solutions. I developed a conceptual framework and conducted three empirical studies in this area as a graduate student at Tufts.  
 
