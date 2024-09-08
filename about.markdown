@@ -27,10 +27,10 @@ My main line of research explores how people experience and regulate emotions wh
 {: refdef}
 *In the above Figure, the solid lines correspond to proposed paths in the conceptual framework. Climate emotions are initiated by exposure to climate change information (which can be external or internal).*
 
-I also studied spatial perforamce (route planning) under time pressure. [route planning project link](https://osf.io/mcbgn/){:target="_blank"} This research on emotion regulation and performance in stressful situations was part of a collaboration with the Center for Applied Brain and Cognitive Science.  
+I also studied spatial perforamce (route planning) under time pressure ([route planning project link](https://osf.io/mcbgn/){:target="_blank"}). This research on emotion regulation and performance in stressful situations was part of a collaboration with the Center for Applied Brain and Cognitive Science.  
   
 {:refdef: style="text-align: center;"}
-![subjetive time pressure reported based on within- and between-persons time pressure manipulations](/assets/time_pressure.png)
+![subjetive time pressure reported based on within- and between-persons time pressure manipulations](/assets/time_pressure.tiff)
 {: refdef}
 *The leftmost plotted condition was hypothesized to have the lowest time pressure and the rightmost, the highest. The panels indicate the total time condition, the x-axis the waiting time condition, and the paired plots indicate the urgency condition (red = urgent). In each condition, horizontal lines indicate quartiles. Each dot is the mean for that condition. The overlayed horizontal line is the grand mean across all conditions.*
 
