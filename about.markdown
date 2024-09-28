@@ -20,7 +20,7 @@ I study affective information processing, with a focus on mindfulness and emotio
 ![three-way venn diagram with affect, behavior, and cognition; all inside social and cultural context](/assets/abccs.png)
 {: refdef}
   
-My main line of research explores how people experience and regulate emotions when faced with climate change information, and how those emotion processes are associated with climate change solutions. I developed a conceptual framework and conducted three empirical studies in this area as a graduate student at Tufts. ([dissertation link](https://osf.io/semy7/?view_only=){:target="_blank"})
+My main line of research explores how people experience and regulate emotions when faced with climate change information, and how those emotion processes are associated with climate change solutions. I developed a ([conceptual framework](https://osf.io/preprints/psyarxiv/j3nsg){:target="_blank"}) and conducted three empirical studies in this area as a graduate student at Tufts. ([dissertation link](https://osf.io/semy7/?view_only=){:target="_blank"})
 
 {:refdef: style="text-align: center;"}
 ![conceptual framework of emotion regulation applied to the climate change situation](/assets/figure_postdefense_2024.png)
