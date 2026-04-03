@@ -12,7 +12,7 @@ My research sits at the intersection of affective science, cognitive science, an
 
 **Emotion regulation and climate change**
 
-Most of my current work focuses on how people regulate emotional responses to climate change information, and whether different regulatory strategies (cognitive reappraisal, mindful acceptance) lead to different behavioral outcomes — including support for climate solutions and collective action. I use a combination of psychophysiological measurement, self-report, and behavioral paradigms to study these questions in adult samples.
+Most of my current work focuses on how people regulate emotional responses to climate change information, and whether different regulatory strategies (cognitive reappraisal, mindful acceptance) lead to different behavioral outcomes — including support for climate solutions and collective action. I use a combination of psychophysiological measurement, self-report, and behavioral paradigms to study these questions in adult populations.
 
 **Psychophysiology**
 

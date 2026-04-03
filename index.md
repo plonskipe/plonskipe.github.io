@@ -18,10 +18,10 @@ Paul E. Plonski is a Research Fellow and Part-time Visiting Assistant Professor 
 
 <div class="recent-work">
 
-**Recent work**
+**current projects**
 
-- [Urgent, hurry up!!! Perceived time pressure affects fine motor performance via subjective distress](https://doi.org/10.1037/xhp0001386) — *Journal of Experimental Psychology: Human Perception and Performance*, 2026
-- [How much time to figure out how to get where? Route planning and subjective stress under time pressure](https://doi.org/10.1371/journal.pone.0316382) — *PLoS ONE*, 2025
-- Invited talk: Emotion regulation and climate change solutions — Society for Affective Science, Portland OR, March 2025
+Emotional pathways to climate change solutions
+Emotion regulation in climate change communication
+Probing the negativity bias
 
 </div>

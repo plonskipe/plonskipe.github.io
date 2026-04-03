@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.45
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=BTRt_w0AAAAJ) is likely the most current record of my publications. Please feel free to [contact me by email](mailto:paul.plonski@swarthmore.edu) if you are unable to access a peer-reviewed manuscript.
+[Google Scholar](https://scholar.google.com/citations?user=BTRt_w0AAAAJ) may be the most current record of my publications. Please feel free to [contact me by email](mailto:paul.plonski@swarthmore.edu) if you are unable to access a peer-reviewed manuscript.
 
 ---
 
