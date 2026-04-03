@@ -1,0 +1,68 @@
+---
+# front matter required for Jekyll to process this file
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+// ── Color overrides ──────────────────────────────────────────────────
+// Navy masthead with red accent
+.masthead {
+  background-color: #0d1b2e;
+  border-bottom: 3px solid #8b1a1a;
+
+  .site-title {
+    color: #ffffff;
+    font-weight: 500;
+    &:hover { color: #cbd8e8; }
+  }
+
+  .greedy-nav {
+    background-color: #0d1b2e;
+
+    a {
+      color: #cbd8e8;
+      &:hover { color: #ffffff; }
+    }
+
+    button {
+      background-color: #8b1a1a;
+    }
+  }
+}
+
+// Red accent on links and active nav
+a {
+  color: #7a1818;
+  &:hover { color: #a02020; }
+}
+
+.greedy-nav .visible-links a:before {
+  background: #8b1a1a;
+}
+
+// Author sidebar photo — square rather than circle
+.author__avatar img {
+  border-radius: 6px;
+  border: 2px solid #dde4ec;
+}
+
+// Subtle footer
+.page__footer {
+  background-color: #0d1b2e;
+  color: #8899aa;
+  a { color: #8899aa; }
+}
+
+// Page title
+.page__title {
+  color: #0d1b2e;
+}
+
+// Masthead flush at top
+.masthead__inner-wrap {
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
+}

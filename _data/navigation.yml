@@ -1,0 +1,11 @@
+main:
+  - title: "CV"
+    url: /assets/files/plonski_CV.pdf
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Other Writing"
+    url: /other-writing/
+  - title: "Contact"
+    url: /contact/
