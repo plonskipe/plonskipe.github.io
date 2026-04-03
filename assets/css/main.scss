@@ -109,9 +109,7 @@ a {
   font-size: 1em;
   line-height: 1.75;
 }
-
-@media (max-width: 1024px) {
+// -- remove avatar ---
   .author__avatar {
     display: none;
   }
-}
