@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.45
 ---
 
-*This page is under construction. Check back soon.*
+*This page is under construction. Put on your hard hat!*
 
 <!-- Suggested sections to add over time:
   - Open materials and data from published studies (OSF links)
