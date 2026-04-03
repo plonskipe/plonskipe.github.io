@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.45
 ---
 
-My research sits at the intersection of affective science, cognitive science, and psychophysiology. The central question driving my work is deceptively simple: when people encounter large-scale problems — climate change, social inequity, collective risk — what happens emotionally, and does how they respond emotionally shape what they do about it?
+My research sits at the intersection of affective science, cognitive science, and psychophysiology. The central question driving my work is straightforward: when people encounter large-scale problems — climate change, social inequity, collective risk — what happens emotionally, and does how they respond emotionally shape what they do about it?
 
 **Emotion regulation and climate change**
 
