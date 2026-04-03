@@ -5,7 +5,9 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Other Writing"
-    url: /other-writing/
+  - title: "Other"
+    url: /other/
+  - title: "Resources"
+    url: /resources/
   - title: "Contact"
     url: /contact/

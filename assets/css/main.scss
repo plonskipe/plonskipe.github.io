@@ -7,62 +7,105 @@
 @import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
 
-// ── Color overrides ──────────────────────────────────────────────────
-// Navy masthead with red accent
+// ── Global font size reduction ───────────────────────────────────────
+html {
+  font-size: 13px;
+}
+
+@include breakpoint($large) {
+  html { font-size: 14px; }
+}
+
+@include breakpoint($x-large) {
+  html { font-size: 14px; }
+}
+
+// ── Recent work section — even smaller ──────────────────────────────
+.recent-work {
+  font-size: 0.82em;
+  color: #444;
+
+  p, li { line-height: 1.55; }
+  strong { font-size: 1em; }
+}
+
+// ── Blue color scheme ────────────────────────────────────────────────
+$blue-dark:   #0f2d4a;
+$blue-mid:    #1a4a7c;
+$blue-light:  #3b7abf;
+$red-accent:  #8b1a1a;
+
 .masthead {
-  background-color: #0d1b2e;
-  border-bottom: 3px solid #8b1a1a;
+  background-color: $blue-dark;
+  border-bottom: 3px solid $red-accent;
 
   .site-title {
     color: #ffffff;
     font-weight: 500;
-    &:hover { color: #cbd8e8; }
+    &:hover { color: #c8daf0; }
   }
 
   .greedy-nav {
-    background-color: #0d1b2e;
+    background-color: $blue-dark;
 
     a {
-      color: #cbd8e8;
+      color: #c8daf0;
       &:hover { color: #ffffff; }
     }
 
-    button {
-      background-color: #8b1a1a;
-    }
+    button { background-color: $blue-mid; }
   }
 }
 
-// Red accent on links and active nav
+// Link colors — blue
 a {
-  color: #7a1818;
-  &:hover { color: #a02020; }
+  color: $blue-mid;
+  &:hover { color: $blue-light; }
 }
 
 .greedy-nav .visible-links a:before {
-  background: #8b1a1a;
+  background: #c8daf0;
 }
 
-// Author sidebar photo — square rather than circle
-.author__avatar img {
-  border-radius: 6px;
-  border: 2px solid #dde4ec;
+// ── Author sidebar avatar — bigger ───────────────────────────────────
+.author__avatar {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.8em;
+
+  img {
+    width: 100%;
+    max-width: none;
+    border-radius: 6px;
+    border: 2px solid #c8daf0;
+  }
 }
 
-// Subtle footer
+// ── Footer ───────────────────────────────────────────────────────────
 .page__footer {
-  background-color: #0d1b2e;
-  color: #8899aa;
-  a { color: #8899aa; }
+  background-color: $blue-dark;
+  color: #7a99bb;
+  a { color: #7a99bb; }
 }
 
-// Page title
+// ── Page / post titles ───────────────────────────────────────────────
 .page__title {
-  color: #0d1b2e;
+  color: $blue-dark;
 }
 
-// Masthead flush at top
+// ── Header overlay title text ────────────────────────────────────────
+.page__hero--overlay .page__title {
+  color: #ffffff;
+}
+
+// ── Masthead spacing ─────────────────────────────────────────────────
 .masthead__inner-wrap {
-  padding-top: 0.6em;
-  padding-bottom: 0.6em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+// ── Bio text on home page ────────────────────────────────────────────
+.bio-text {
+  font-size: 0.95em;
+  line-height: 1.75;
 }
