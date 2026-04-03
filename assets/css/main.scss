@@ -9,11 +9,11 @@
 
 // ── Global font size reduction ───────────────────────────────────────
 html {
-  font-size: 13px;
+  font-size: 12px;
 }
 
 @include breakpoint($large) {
-  html { font-size: 14px; }
+  html { font-size: 13px; }
 }
 
 @include breakpoint($x-large) {
@@ -30,10 +30,10 @@ html {
 }
 
 // ── Blue color scheme ────────────────────────────────────────────────
-$blue-dark:   #0f2d4a;
-$blue-mid:    #1a4a7c;
+$blue-dark:   #0d4172;
+$blue-mid:    #1e5c9e;
 $blue-light:  #3b7abf;
-$red-accent:  #8b1a1a;
+$red-accent:  #6d1212;
 
 .masthead {
   background-color: $blue-dark;
