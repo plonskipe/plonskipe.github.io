@@ -18,10 +18,12 @@ Paul E. Plonski is a Research Fellow and Part-time Visiting Assistant Professor 
 
 <div class="recent-work">
 
-**current projects**
+**current projects**  
 
 Emotional pathways to climate change solutions
+
 Emotion regulation in climate change communication
+
 Probing the negativity bias
 
 </div>
