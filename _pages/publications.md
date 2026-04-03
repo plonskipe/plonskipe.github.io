@@ -3,9 +3,12 @@ layout: single
 title: Publications
 permalink: /publications/
 author_profile: true
+header:
+  overlay_image: "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=1400&q=80"
+  overlay_filter: 0.45
 ---
 
-For the most current list, see my [Google Scholar](https://scholar.google.com/citations?user=YOURID) or [ResearchGate](https://www.researchgate.net/profile/Paul-Plonski) profiles.
+[Google Scholar](https://scholar.google.com/citations?user=BTRt_w0AAAAJ) is likely the most current record of my publications. Please feel free to [contact me by email](mailto:paul.plonski@swarthmore.edu) if you are unable to access a peer-reviewed manuscript.
 
 ---
 

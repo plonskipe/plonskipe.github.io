@@ -19,21 +19,21 @@ author:
     - label: "CV"
       icon: "fas fa-fw fa-file-alt"
       url: "/assets/files/plonski_CV.pdf"
-    - label: "OSF"
-      icon: "fas fa-fw fa-flask"
-      url: "https://osf.io/user/c9pgz"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=BTRt_w0AAAAJ"
-    - label: "look out for socials links here"
-      icon: "fab fa-fw fa-socials"
-      url: "https://twitter.com/"
-
+    - label: "OSF"
+      icon: "fas fa-fw fa-flask"
+      url: "https://osf.io/user/c9pgz"
+    - label: "More to come"
+      icon: "fas fa-fw fa-share-alt"
+      url: "#"
 
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # Defaults
 defaults:
