@@ -8,20 +8,18 @@ header:
   overlay_filter: 0.45
 ---
 
-My research sits at the intersection of affective science, cognitive science, and psychophysiology. The central question driving my work is straightforward: when people encounter large-scale problems — climate change, social inequity, collective risk — what happens emotionally, and does how they respond emotionally shape what they do about it?
+My research asks how people emotionally respond to problems too large to see or touch — like climate change — and whether the ways we manage those emotions ultimately help or hurt. I draw on affective science, cognitive science, and psychophysiology to study emotion regulation at the boundary between individual experience and shared human problems. I approach science with a commitment to transparent, reproducible practices.  
 
-**Emotion regulation and climate change**
+**Emotion regulation and climate change**  
 
-Most of my current work focuses on how people regulate emotional responses to climate change information, and whether different regulatory strategies (cognitive reappraisal, mindful acceptance) lead to different behavioral outcomes — including support for climate solutions and collective action. I use a combination of psychophysiological measurement, self-report, and behavioral paradigms to study these questions in adult populations.
+People feel a range of emotions about climate change, yet there seems to be a mismatch between the scale of the problem and the intensity of our collective responses. Most of my current work focuses on how people regulate emotional responses to climate change information, the mechanisms involved, and whether regulation — including cognitive reappraisal and mindful acceptance — leads to different outcomes. I study these questions using psychophysiological measurement, self-report, and behavioral paradigms with adult populations.
 
-**Psychophysiology**
+**Psychophysiology and the LPP**
 
-I use electroencephalography (EEG) and peripheral physiological methods to study emotion and emotion regulation in the brain and body. I am interested in modeling the late positive potential (LPP) as a composite signal to probe theories of attention, motivation, and emotional arousal. I am also interested in the links between environment, physiology, and emotion.
+I use electroencephalography (EEG) and peripheral physiological methods to study emotion and emotion regulation in the brain and body. I am particularly interested in the late positive potential (LPP) as a window into attention, motivation, and emotional arousal, and in building more precise models of this signal.  
 
-**Stress, cognition, and wayfinding**
+**Earlier and collaborative work**
 
-A secondary line of work examines how time pressure and subjective stress affect cognitive performance — including spatial navigation and fine motor tasks — and the role of individual differences in anxiety and emotion regulation in these contexts.
+My research background includes work on mindfulness and its social and emotional effects, including ERP studies of disgust regulation and prosocial behavior following contemplative practice. In collaborative work, I have examined how time pressure affects stress and cognitive performance, including spatial navigation and fine motor tasks.  
 
-**Open science**
 
-I am committed to transparent, reproducible research practices, including preregistration, open data and materials, and power analysis. I have been involved in open science advocacy through the Society for the Improvement of Psychological Science (SIPS).
