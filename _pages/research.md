@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.45
 ---
 
-How and why do people experience emotions thinking about other people, or even thinking at all, across environments, before and after decisions, and even about problems too large to see or touch like climate change? What are the consequences of emotions and emotion regulation? My research asks about contextual, individual, and other factors that shape emotions and the ways we manage those emotions. I draw on affective science, cognitive science, and psychophysiology to conduct experimental and modeling work at the boundary between individual experience and shared human problems. I approach science with a commitment to transparent, reproducible practices.  
+How and why do people experience emotions? What are the consequences of emotions and emotion regulation? My research asks about contextual, individual, and other factors that shape emotions and the ways we manage those emotions. I draw on affective science, cognitive science, and psychophysiology to ask questions at the boundary between individual experience and shared human problems. I approach science with a commitment to transparent, reproducible practices.  
 
 **Emotion regulation and climate change**  
 
@@ -16,7 +16,7 @@ People feel a range of emotions about climate change, yet there seems to be a mi
 
 **Psychophysiology**
 
-I use electroencephalography (EEG) and peripheral physiological methods to study emotion and emotion regulation in the brain and body. I am particularly interested in event-related potentials (ERPs) as measures of attention, appraisal, motivation, and emotional arousal. I am working toward data analysis of the late positive potential (LPP) that would leverage the information value of the EEG data more than traditional ERP calculations.  
+I use electroencephalography (EEG) and peripheral physiological methods to study emotion and emotion regulation in the brain and body. I am particularly interested in event-related potentials (ERPs) as measures of attention, appraisal, motivation, and emotional arousal. My work often focuses on the late positive potential (LPP), which is a complicated signal. In part to better understand that signal, I am exploring ways to leverage the information value of EEG data more than traditional ERP calculations.  
  
 **Earlier and collaborative work**
 
