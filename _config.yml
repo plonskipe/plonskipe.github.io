@@ -65,8 +65,3 @@ exclude:
   - "*.gem"
   - vendor/
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-WF475Z8EDW"
-    anonymize_ip: false
